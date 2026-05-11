@@ -1,2 +1,2 @@
 # tableau
-CO2 EMISSION
+CO2 EMISSION (img/co2_region)
